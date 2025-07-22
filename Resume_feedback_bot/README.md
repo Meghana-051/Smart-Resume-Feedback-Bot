@@ -54,6 +54,19 @@ streamlit run app.py
 ```
 
 ---
+## 📸 Screenshots
+
+1. **Resume Upload Page**  
+   ![](ss1.jpg)
+
+2. **Resume Preview & Analyze Button**  
+   ![](ss2.jpg)
+
+3. **Skills & Grammar Analysis**  
+   ![](ss3.jpg)
+
+4. **Section Detection & Score**  
+   ![](ss4.jpg)
 
 ## 💡 Usage
 
