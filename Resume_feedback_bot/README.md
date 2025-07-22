@@ -57,7 +57,8 @@ streamlit run app.py
 ## 📸 Screenshots
 
 1. **Resume Upload Page**  
-   ![](ss1.jpg)
+   ![](ss1.jpg<img width="1885" height="848" alt="image" src="https://github.com/user-attachments/assets/6ceeecbf-503a-490e-8c6b-83eba8922bdd" />
+)
 
 2. **Resume Preview & Analyze Button**  
    ![](ss2.jpg)
